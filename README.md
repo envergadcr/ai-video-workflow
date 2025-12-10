@@ -62,7 +62,7 @@
       <em>生成示例：生成图像。</em>
     </td>
     <td align="center" valign="top">
-      <video src="./assets/cover_demo_video.mp4" alt="生成示例：最终视频" width="390" controls autoplay loop muted></video>
+      <video src="https://github.com/toki-plus/ai-video-workflow/blob/main/assets/cover_demo_video.mp4?raw=true" alt="生成示例：最终视频" width="390" controls autoplay loop muted></video>
       <br />
       <em>生成示例：最终视频。</em>
     </td>
