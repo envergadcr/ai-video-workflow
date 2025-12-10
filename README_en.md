@@ -62,7 +62,7 @@ This is not just a tool, but a complete AIGC creation ecosystem:
       <em>Generation Example: Generated Image.</em>
     </td>
     <td align="center" valign="top">
-      <video src="./assets/cover_demo_video.mp4" alt="Generation Example: Final Video" width="390" controls autoplay loop muted></video>
+      <img src="./assets/cover_demo_video.gif" alt="Generation Example: Final Video" width="390"/>
       <br />
       <em>Generation Example: Final Video.</em>
     </td>
@@ -179,5 +179,6 @@ Contributions of any kind are welcome! If you have ideas for new features, found
 If this project has been helpful to you, please consider giving it a ⭐!
 
 ## 📜 License
+
 
 This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) file for details.
