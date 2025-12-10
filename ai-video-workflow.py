@@ -1275,7 +1275,7 @@ class MainWindow(QMainWindow):
         self._populate_prompt_theme_combo()
         self.log_message("请输入您的API密钥并开始创作。")
     def open_tutorial_link(self):
-        tutorial_url = "https://www.yuque.com/"
+        tutorial_url = "https://space.bilibili.com/497244096"
         QDesktopServices.openUrl(QUrl(tutorial_url))
         self.log_message(f"正在打开使用教程: {tutorial_url}")
     def start_main_generation_flow(self):
@@ -1862,4 +1862,5 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     window = MainWindow()
     window.show()
+
     sys.exit(app.exec_())
